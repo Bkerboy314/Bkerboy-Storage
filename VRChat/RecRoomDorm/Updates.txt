@@ -1,6 +1,7 @@
 <color=orange>Updates - July 22nd, 2026</color>
 - Added remote updaing of Update Log through GitHub
 - Added Credits
+- Added poster
 
 <color="grey>Previous Update - July 20th, 2026
 - Added colliders for mounds
