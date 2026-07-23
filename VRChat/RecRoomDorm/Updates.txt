@@ -2,6 +2,7 @@
 - Added remote updaing of Update Log through GitHub
 - Added Credits
 - Added poster
+- Removed Mirror
 
 <color="grey>Previous Update - July 20th, 2026
 - Added colliders for mounds
