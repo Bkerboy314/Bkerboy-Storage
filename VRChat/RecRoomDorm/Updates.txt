@@ -1,0 +1,9 @@
+Updates - July 22nd, 2026
+- Added remote updaing of Update Log through GitHub
+- Added Credits
+
+Previous Update - July 20th, 2026
+- Added colliders for mounds
+- Added prefabs for future use
+- Added update log
+- Lighting updates
