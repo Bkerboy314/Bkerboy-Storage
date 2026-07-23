@@ -3,6 +3,8 @@
 - Added Credits
 - Added poster
 - Removed Mirror
+- Internal optimizations
+- Updated VR controller models from SteamVR
 
 <color="grey>Previous Update - July 20th, 2026
 - Added colliders for mounds
