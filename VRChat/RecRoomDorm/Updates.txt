@@ -2,7 +2,7 @@
 - Added Join/Leave notifications
 
 <color="grey>Previous Update - July 22nd, 2026
-- Added remote updaing of Update Log through GitHub
+- Added remote updating of Update Log through GitHub
 - Added Credits
 - Added poster
 - Removed Mirror
