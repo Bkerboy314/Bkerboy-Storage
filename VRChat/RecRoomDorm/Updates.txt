@@ -1,5 +1,6 @@
 <color=orange>Updates - July 23rd, 2026</color>
 - Added Join/Leave notifications
+- UI adjustments
 
 <color="grey>Previous Update - July 22nd, 2026
 - Added remote updating of Update Log through GitHub
