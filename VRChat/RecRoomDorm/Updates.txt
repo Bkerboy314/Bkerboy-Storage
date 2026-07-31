@@ -1,14 +1,5 @@
-<color=red>VRChat's AI moderation has been falsely flagging worlds and avatars for deletion. Until this gets fixed, I will no longer create content on VRChat.</color>
+<color=red>Due to VRChat falsely flagging FatFur worlds for deletion‚ all my worlds have ceased development until this is fixed․ I have also cancelled my VRChat Plus subscription and changed avatars due to this․</color>
 
 <color=orange>Updates - July 23rd, 2026</color>
 - Added Join/Leave notifications
 - UI adjustments
-
-<color=grey>Previous Update - July 22nd, 2026
-- Added remote updating of Update Log through GitHub
-- Added Credits
-- Added poster
-- Removed Mirror
-- Internal optimizations
-- Updated VR controller models from SteamVR
-</color>
