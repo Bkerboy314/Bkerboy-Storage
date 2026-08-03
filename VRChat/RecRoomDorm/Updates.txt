@@ -1,4 +1,4 @@
-<color=red>Due to VRChat falsely flagging FatFur worlds for deletion‚ all my worlds have ceased development until this is fixed․ I have also cancelled my VRChat Plus subscription and changed avatars due to this․</color>
+<color=red>Notice: It has come to my attention that VRChat is using a faulty AI moderation system that is falsely flagging innocent worlds as containing explicit material. Due to this, I have stopped working on VRChat worlds, and am planning to move to ChilloutVR.</color>
 
 <color=orange>Updates - July 23rd, 2026</color>
 - Added Join/Leave notifications
