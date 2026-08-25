@@ -1,4 +1,4 @@
-<color=red>Notice: It has come to my attention that VRChat is using a faulty AI moderation system that is falsely flagging innocent worlds as containing explicit material. Due to this, I have stopped working on VRChat worlds, and am planning to move to ChilloutVR.</color>
+<color=red>VRChat’s AI appears to have been fixed, and as such world development will now continue as usual.</color>
 
 <color=orange>Updates - July 23rd, 2026</color>
 - Added Join/Leave notifications
