@@ -1,5 +1,3 @@
-<color=red>VRChat’s AI has continues to issue false moderation actions on worlds. Until VRChat removes this AI slop, I will no longer update my worlds.</color>
+<color=red>As of September 2nd, 2026, VRChat’s AI has continued to issue false moderation actions on worlds. Until VRChat removes this AI slop, I will no longer update my worlds, and will instead port them to other platforms.
 
-<color=orange>Updates - July 23rd, 2026</color>
-- Added Join/Leave notifications
-- UI adjustments
+- Bkerboy, 2026</color>
