@@ -1,3 +1,3 @@
-<color=red>As of September 2nd, 2026, VRChat’s AI has continued to issue false moderation actions on worlds. Until VRChat removes this AI slop, I will no longer update my worlds, and will instead port them to other platforms.
+As of September 2nd, 2026, I have stopped making content on VRChat and have since moved on to Bonelab. This world will remain available in it's current state, but will no longer be updated.
 
-- Bkerboy, 2026</color>
+<color=yellow>Something must be done. #SaveVRCFatfurs</color>
